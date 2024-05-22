@@ -1,7 +1,7 @@
 {
   "mappings": [
-    "/content/nat-xwalk/:/",
-    "/content/nat-xwalk/configuration:/.helix/config.json",
-    "/content/nat-xwalk/headers:/.helix/headers.json"
+    "/content/aem-edge-getting-started-site/:/",
+    "/content/aem-edge-getting-started-site/configuration:/.helix/config.json",
+    "/content/aem-edge-getting-started-site/headers:/.helix/headers.json"
   ]
 }
